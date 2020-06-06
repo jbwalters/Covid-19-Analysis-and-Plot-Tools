@@ -20,7 +20,7 @@ clear
 #   Copy the current time series data files to this directory
 #
 
-cp /home/james/Desktop/Coronavirus/Octave_Analysis/COVID-19-master/csse_covid_19_data/csse_covid_19_time_series/*.csv ./
+cp ./COVID-19-master/csse_covid_19_data/csse_covid_19_time_series/*.csv ./
 
 # Extract the data header line
 
