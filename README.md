@@ -1,6 +1,7 @@
 # Covid-19-Analysis-and-Plot-Tools
 
-The purpose of this set of tools is to produce plots of the time series Covid-19 data pulled from the https://github.com/CSSEGISandData/COVID-19 repository.
+The purpose of this set of tools is to produce plots of the time series Covid-19 data pulled from the https://github.com/CSSEGISandData/COVID-19 repository. The tools run under Linux.
+
 The following types of plots are produced:
 * Total Cumulative Cases
 * Total Cumulative Deaths
