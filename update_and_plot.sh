@@ -527,10 +527,10 @@ done
 #		Call the plotting script
 #
 
-./plotresults
+./plotresults.sh
 
-./Plot7DayAvg
+./Plot7DayAvg.sh
 
-./PlotDensity
+./PlotDensity.sh
 
 exit 0
